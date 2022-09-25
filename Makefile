@@ -1,0 +1,2 @@
+run: assign2.c prompt_comm.c base_comm.c builtin_comm.c ls_comm.c history_comm.c discover_comm.c system_comm.c bg_done_comm.c pinfo_comm.c autocomplete_comm.c redirect_comm.c
+	gcc assign2.c prompt_comm.c base_comm.c builtin_comm.c ls_comm.c history_comm.c discover_comm.c system_comm.c bg_done_comm.c pinfo_comm.c autocomplete_comm.c redirect_comm.c -o shell
